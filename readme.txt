@@ -1,5 +1,5 @@
 /*
-  Name: Anthony Bonus & Adam Disanti
+  Name: Adam Disanti
   Purpose: Recursive Descent Parser
     and Intermediate Code Generator  HW#4
   Date: 4/3/2024
